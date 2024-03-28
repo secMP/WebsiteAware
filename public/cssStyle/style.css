@@ -1,6 +1,31 @@
 .row-title{
-    background: aqua;
     font-family: Poppins;
+    font-size: 50px;
     text-align: center;
-    font-size: 80px;
+    color: #00246B;
+}
+.camera{
+    background-color: #CADCFC;
+}
+
+
+.device-title{
+    font-family: Poppins;
+    font-size: 20px;
+    background-color: #00246B;
+    color: white;
+    text-align: center;
+}
+
+.row-ciTitle{
+    font-family: Poppins;
+    font-size: large;
+    font-weight: bold;
+    color: #00246B;
+}
+
+.row-ciInfo{
+    font-family: Poppins;
+    font-size: medium;
+    margin-top: -15px;
 }

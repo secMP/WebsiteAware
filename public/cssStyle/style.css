@@ -29,3 +29,8 @@
     font-size: medium;
     margin-top: -15px;
 }
+
+.card-body, .card-title, .headleft, .headright{
+    background-color: #CADCFC;
+}
+

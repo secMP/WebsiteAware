@@ -55,11 +55,11 @@ function createNewCards(val, data, idVal){
         let img = document.createElement("img");
         if(i==0){
             carItemDiv.classList.add("carousel-item", "active");
-            img.classList.add("d-block", "w-100");
+            img.classList.add("d-block", "img-thumbnail");
             img.src = data.images[i];
         }else{
             carItemDiv.classList.add("carousel-item");
-            img.classList.add("d-block", "w-100");
+            img.classList.add( "d-block", "img-thumbnail");
             img.src = data.images[i];
         }
         carItemDiv.appendChild(img);
@@ -129,7 +129,7 @@ function createNewCards(val, data, idVal){
     collapseCol4.appendChild(info[1]);
     
     //Retention Info
-    info = createInformation("Data Retention", data.dataRention);
+    info = createInformation("Retention of the Data", data.dataRention);
     collapseCol4.appendChild(info[0]);
     collapseCol4.appendChild(info[1]);
     rowCollapseDiv.appendChild(collapseCol4);
@@ -137,7 +137,7 @@ function createNewCards(val, data, idVal){
     
     let collapseCol6 = createColInfo(6);
     //Data Access
-    info = createInformation("Data Access", data.dataAccess);
+    info = createInformation("Access to your Data", data.dataAccess);
     collapseCol6.appendChild(info[0]);
     collapseCol6.appendChild(info[1]);
     // Description

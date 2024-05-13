@@ -129,7 +129,7 @@ function createNewCards(val, data, idVal){
     collapseCol4.appendChild(info[1]);
     
     //Retention Info
-    info = createInformation("Retention of the Data", data.dataRention);
+    info = createInformation("Retention of the Data", data.dataRetention);
     collapseCol4.appendChild(info[0]);
     collapseCol4.appendChild(info[1]);
     rowCollapseDiv.appendChild(collapseCol4);

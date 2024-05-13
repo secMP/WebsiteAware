@@ -1,0 +1,30 @@
+.table {
+    border-collapse: separate;
+    border-spacing:20px 20px;
+}
+
+th.colorHead1{
+    background: #FFB81C !important;
+    color: white;
+    text-align: center;
+  }
+
+th.colorHead2{
+    background: #003594 !important;
+    color: white;
+    text-align: center;
+}
+
+td.colorAddition1{
+    background-color: gray;
+    color: black;
+    text-align: center;
+}
+
+td.colorAddition2{
+    background-color: #003594;
+    color: white;
+    text-align: center;
+}
+
+

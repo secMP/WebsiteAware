@@ -4,7 +4,7 @@
         "sensor" : "Microphone",
         "purpose": "Device Controls, Managing Schedule",
         "dataType" : "Audio of the Users",
-        "dataRention": "3 Months",
+        "dataRetention": "3 Months",
         "dataAccess": "Manufacturing Company, Organization",
         "description": "The speaker controls the devices and media in the room. Additionally, the private office occupier can build their schedule by using the Voice Assistant.",
         "images" : ["images/PrivateSpaceSpeaker1.png", "images/PrivateSpaceSpeaker1.png"]
@@ -14,7 +14,7 @@
         "sensor" : "Microphone, Video Camera",
         "dataType": "Video of the Room, Video of the user in Conference",
         "purpose" : "Space Management, Conducting Video Conference",
-        "dataRention": "Forever",
+        "dataRetention": "Forever",
         "dataAccess": "Manufacturing Company, Organization, Facilities Management, Person on the Conference",
         "description": "The device's purpose is to send the video data to the Facilities Management to learn about space utilization. Additionally, to use the device for video conferencing.",
         "images" : ["images/PrivateSpaceCamera1.png", "images/PrivateSpaceCamera2.png"]
@@ -24,7 +24,7 @@
         "sensor" : "Motion Sensor, Ambient Lights Sensor",
         "purpose": "Automatic Light Control",
         "dataType" : "Motion Detection, Light Intensity",
-        "dataRention": "Forever",
+        "dataRetention": "Forever",
         "dataAccess": "Manufacturing Company, Organization",
         "description": "This helps to turn on/off the lights based on the motion and ambient light.",
         "images" : ["images/PrivateSpaceLight1.png", "images/PrivateSpaceLight1.png"]
@@ -34,7 +34,7 @@
         "sensor" : "Temperature Sensor, Humidity Sensor",
         "purpose": "Auto Climate Control",
         "dataType" : "Temperature, Humidity",
-        "dataRention": "Forever",
+        "dataRetention": "Forever",
         "dataAccess": "Manufacturing Company, Organization, Facilities Management",
         "description": "The device is used to control the climate automatically, based on the temperatures set by the Facilities Management.",
         "images" : ["images/PrivateSpaceThermo1.png", "images/PrivateSpaceThermo2.png"]

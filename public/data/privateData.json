@@ -12,12 +12,12 @@
     {
         "device" : "Smart Camera",
         "sensor" : "Microphone, Video Camera",
-        "dataType": "Video of the Room, Video of the user in Conference",
+        "dataType": "Video of the Room, Video of the Users in Conference",
         "purpose" : "Space Management, Conducting Video Conference",
         "dataRetention": "Forever",
         "dataAccess": "Manufacturing Company, Organization, Facilities Management, Person on the Conference",
         "description": "The device's purpose is to send the video data to the Facilities Management to learn about space utilization. Additionally, to use the device for video conferencing.",
-        "images" : ["images/PrivateSpaceCamera1.png", "images/PrivateSpaceCamera2.png"]
+        "images" : ["images/PriavteSpaceCamera1.png", "images/PriavteSpaceCamera1.png"]
     },
     {
         "device" : "Smart Lights",

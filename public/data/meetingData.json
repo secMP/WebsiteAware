@@ -13,7 +13,7 @@
         "device" : "Smart Camera",
         "sensor" : "Microphone, Video Camera",
         "purpose" : "Space Utilization, Conducting Video Conference",
-        "dataType": "Video of the Room, Video of the user in Conference",
+        "dataType": "Video of the Room, Video of the Users in Conference",
         "dataRetention": "Forever",
         "dataAccess": "Manufacturing Company, Organization, Facilities Management, Person on the Conference",
         "description": "The device's purpose is to send the video data to the Facilities Management to learn about space utilization. Additionally, to use the device for video conferencing.",

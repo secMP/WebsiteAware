@@ -17,7 +17,7 @@
         "dataRetention": "Forever",
         "dataAccess": "Manufacturing Company, Organization, Facilities Management, Person on the Conference",
         "description": "The purpose of the device is to send video data to Facilities Management to determine space utilization and, additionally, to use the device for video conferencing.",
-        "images" : ["images/KitchenCamera1.png", "images/KitcheenCamera2.png"]
+        "images" : ["images/KitchenCamera1.png", "images/KitchenCamera2.png"]
     },
     {
         "device" : "Smart Lights",

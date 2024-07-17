@@ -27,7 +27,7 @@
         "dataRetention": "Forever",
         "dataAccess": "Manufacturing Company, Organization",
         "description": "This helps to turn on/off the lights based on the motion and ambient light.",
-        "images" : ["images/MeetingRoomLight1.png", "images/MeetingRoomLight1.png"]
+        "images" : ["images/MeetingRoomLights1.png", "images/MeetingRoomLights1.png"]
     },
     {
         "device" : "Smart Thermostat",
